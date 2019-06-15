@@ -16,6 +16,20 @@ body, .app {
   padding: 10px 0;
   background: #2e7c31;
   text-align: center;
+  display: flex;
+}
+
+.list-search-books {
+  width: 100px;
+  align-self: center;
+}
+
+.list-search-books a{
+  color:white;
+}
+
+.title-heading {
+  width: calc(100% - 100px);
 }
 
 .list-books-title h1 {
