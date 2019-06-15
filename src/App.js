@@ -8,7 +8,6 @@ let history = require("history").createBrowserHistory();
 
 class BooksApp extends React.Component {
     state = {
-        showSearchPage: false,
         fullBooksList : [],
         searchedList: []
     }
