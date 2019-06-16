@@ -2,6 +2,10 @@
 MyReads is bookshelf app that allow user to categorize books as currently reading, want to read and read. User can search books and categorize them too also when user search book and any particular book is already categories so it will show that category.
 Data of Book is coming from API.
 
+#Installation
+* install all project dependencies with `npm install`
+* start the development server with `npm start`
+
 
 # MyReads Project
 
